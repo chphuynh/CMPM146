@@ -7,4 +7,4 @@
 
 <br/>
 
-- **Christopher Huynh, chphuynh@ucsc.edu**# CMPM 146
+- **Christopher Huynh, chphuynh@ucsc.edu**
