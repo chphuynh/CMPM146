@@ -1,0 +1,44 @@
+States visited: 188972
+Time to find goal: 17.888223983961314 seconds
+
+[cost=120, len=38]
+
+Path:
+punch for wood
+craft plank
+craft bench
+punch for wood
+craft plank
+punch for wood
+craft plank
+craft stick
+craft wooden_pickaxe at bench
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+craft furnace at bench
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+wooden_pickaxe for cobble
+craft stone_pickaxe at bench
+stone_pickaxe for coal
+stone_pickaxe for coal
+stone_pickaxe for coal
+stone_pickaxe for coal
+stone_pickaxe for coal
+stone_pickaxe for ore
+stone_pickaxe for ore
+stone_pickaxe for ore
+stone_pickaxe for ore
+stone_pickaxe for ore
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+smelt ore in furnace
+craft cart at bench

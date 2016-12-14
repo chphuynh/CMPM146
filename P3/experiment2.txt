@@ -1,0 +1,3 @@
+The modified wins more games than the vanilla ie. modified wins averages 68 out of 100 games.
+When increasing the tree sizes to 1500 nodes, the modified tree wins less often with an average of 55 wins out of 100
+When decreasing the tree sizes to 500 nodes, the modified tree wins less often with an average of 54 wins out of 100 games.

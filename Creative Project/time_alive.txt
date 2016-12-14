@@ -1,0 +1,74 @@
+8 died at 5561
+0 died at 6849
+9 died at 11175
+6 died at 12872
+7 died at 13645
+5 died at 23905
+0 died at 5800
+1 died at 5800
+2 died at 5800
+4 died at 6749
+6 died at 6749
+7 died at 6749
+9 died at 6749
+5 died at 10301
+3 died at 14876
+
+
+ Round 2
+
+1 died at 5790
+3 died at 5790
+4 died at 5790
+2 died at 5890
+0 died at 6490
+5 died at 6490
+6 died at 6490
+7 died at 6490
+8 died at 6490
+9 died at 6490
+
+
+ Round 3
+
+3 died at 5718
+5 died at 5718
+6 died at 5718
+7 died at 5718
+8 died at 5718
+9 died at 5718
+0 died at 6318
+1 died at 6318
+4 died at 6318
+
+
+ Round 4
+
+6 died at 6150
+8 died at 6150
+9 died at 6150
+1 died at 6450
+2 died at 6450
+3 died at 6450
+4 died at 6450
+5 died at 6550
+7 died at 6550
+
+
+ Round 5
+
+0 died at 6802
+0 died at 5727
+1 died at 5727
+3 died at 5727
+4 died at 5727
+2 died at 5827
+8 died at 7049
+9 died at 7049
+5 died at 7149
+6 died at 7149
+7 died at 7149
+
+
+ Round 6
+

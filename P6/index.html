@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+
+		<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+		Remove this if you use the .htaccess -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+		<title>Sedit qui timuit ne non succederet</title>
+		<meta name="description" content="">
+		<meta name="author" content="Kate">
+
+		<meta name="viewport" content="width=device-width; initial-scale=1.0">
+
+		<!-- Replace favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+		<link rel="shortcut icon" href="/favicon.ico">
+		<link rel="apple-touch-icon" href="/apple-touch-icon.png">
+		<link rel="stylesheet" href="css/aof.css">
+		<link rel="stylesheet" href="css/page.css">
+		<link rel="stylesheet" href="css/jqueryUI/absolution.css">
+		
+		
+	</head>
+
+	<body>
+		<div id='main-col'>
+
+			<div id="view-holder">
+
+			</div>
+			<div id="selected-window">
+
+			</div>
+
+			<div id="dna-panel" class="card">
+				<div id="population" class="subpanel">
+
+				</div>
+			</div>
+
+			<div id="evo-panel" class="card">
+				<div class="view-controls subpanel">
+					<div class="subpanel" id="gen-subpanel">
+						<input type="radio" name="evomode" value="random" checked>
+						Randomize
+						<br>
+						<input type="radio" name="evomode" value="mutateAll">
+						Mutate all
+						<br>
+						<input type="radio" name="evomode" value="mutateWinners">
+						Mutant offspring from winners
+						<br>
+						<input type="radio" name="evomode" value="breedWinners">
+						Crossover pairs of winners
+						<br>
+						<input type="radio" name="evomode" value="custom1">
+						Custom evolution 1
+						<br>
+						<input type="radio" name="evomode" value="custom2">
+						Custom evolution 2
+						<br>
+						<button id="nextgen">
+							Next generation
+						</button>
+						<button id="set-winners">
+							Calculate winners
+						</button>
+					</div>
+					<div class="subpanel" id="controls-subpanel">
+						Mutation amount
+						<div id="mut-amt" class="slider"></div>
+						Mutation chance
+						<div id="mut-chance" class="slider"></div>
+
+						<button id="toggle-forces">
+							Show Forces
+						</button>
+
+						<button id="reroll">
+							Reroll DNA
+						</button>
+					</div>
+				</div>
+				<div id="winner-slots">
+
+				</div>
+			</div>
+		</div>
+	</body>
+
+	<script src="js/vendor/processing-1.4.1.js"></script>
+
+	<script src="js/vendor/jquery-1.11.2.min.js"></script>
+	<script src="js/vendor/jquery-ui.js"></script>
+	<script src="js/vendor/jquery.mousewheel.js"></script>
+	<script src="js/vendor/seedrandom.js"></script>
+	<script src="js/vendor/simplex_noise.js"></script>
+	<script src="js/vendor/inheritance.js"></script>
+	<script src="js/vendor/three.min.js"></script>
+
+	<script src="js/common.js"></script>
+	<script src="js/particle/particle.js"></script>
+	<script src="js/aof/individual.js"></script>
+	<script src="js/aof/population.js"></script>
+	<script src="js/aof/environment.js"></script>
+	<script src="js/aof/aof.js"></script>
+
+	<script src="js/aof/boids/boid.js"></script>
+	<script src="js/aof/boids/flock.js"></script>
+	<script src="js/aof/evo-panel.js"></script>
+	<script src="js/aof/dna-panel.js"></script>
+	<script src="js/view/pview.js"></script>
+	<script src="js/app.js"></script>
+
+</html>

@@ -1,0 +1,382 @@
+DEBUG:root:Order:2 3 10.0
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 4 10.0
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 19 15.0
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 20 15.0
+DEBUG:root:Order:2 4 43
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 15 20.0
+DEBUG:root:Bad order:4 3.0 8
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:4 16 20.0
+DEBUG:root:Order:2 4 3
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:4 0 26.0
+DEBUG:root:Bad order:2 14.0 15
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 4 16
+DEBUG:root:Order:2 19 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 19 1
+DEBUG:root:Order:2 4 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 19 9
+DEBUG:root:Order:4 19 8
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 19 1
+DEBUG:root:Order:2 4 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 15 2
+DEBUG:root:Order:4 15 1
+DEBUG:root:Order:4 19 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 15 8
+DEBUG:root:Order:4 15 4
+DEBUG:root:Order:19 15 3
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 19 1
+DEBUG:root:Order:2 4 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 19 8
+DEBUG:root:Order:4 19 7
+DEBUG:root:Order:15 19 6
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 19 2
+DEBUG:root:Order:2 4 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:15 2 7
+DEBUG:root:Order:4 2 6
+DEBUG:root:Order:19 2 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:15 19 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:19 9 40.0
+DEBUG:root:Order:2 19 11
+DEBUG:root:Order:15 19 9
+DEBUG:root:Order:4 19 8
+DEBUG:root:Bad order:0 1.0 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 0 7
+DEBUG:root:Order:15 0 5
+DEBUG:root:Order:4 0 3
+DEBUG:root:Order:4 19 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 0 7
+DEBUG:root:Order:15 0 5
+DEBUG:root:Order:4 0 4
+DEBUG:root:Order:19 0 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 0 7
+DEBUG:root:Order:15 0 5
+DEBUG:root:Order:4 0 4
+DEBUG:root:Order:19 0 3
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 0 8
+DEBUG:root:Order:15 0 6
+DEBUG:root:Order:4 0 5
+DEBUG:root:Order:19 0 4
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 0 1
+DEBUG:root:Order:2 19 1
+DEBUG:root:Order:2 4 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 0 1
+DEBUG:root:Order:2 19 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:19 10 40.0
+DEBUG:root:Bad order:20 5.0 19
+DEBUG:root:Order:2 19 13
+DEBUG:root:Order:15 19 13
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:16 12.0 20
+DEBUG:root:Bad order:20 6.0 14
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:16 15.0 19
+DEBUG:root:Order:16 20 8
+DEBUG:root:Order:16 19 6
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:16 4.0 12
+DEBUG:root:Order:2 0 9
+DEBUG:root:Order:15 0 3
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:16 7.0 11
+DEBUG:root:Order:16 20 4
+DEBUG:root:Bad order:16 3.0 11
+DEBUG:root:Bad order:9 1.0 5
+DEBUG:root:Order:2 15 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:16 19 6
+DEBUG:root:Order:9 19 3
+DEBUG:root:Bad order:9 0.0 3
+DEBUG:root:Bad order:9 0.0 3
+DEBUG:root:Order:2 15 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 0 5
+DEBUG:root:Order:15 0 3
+DEBUG:root:Order:16 0 3
+DEBUG:root:Order:9 0 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 16 6
+DEBUG:root:Order:15 16 4
+DEBUG:root:Bad order:9 2.0 3
+DEBUG:root:Order:19 16 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:0 12.0 18
+DEBUG:root:Order:0 16 5
+DEBUG:root:Bad order:0 7.0 18
+DEBUG:root:Order:2 19 3
+DEBUG:root:Order:15 19 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:0 9 12
+DEBUG:root:Order:2 9 3
+DEBUG:root:Order:19 9 2
+DEBUG:root:Order:15 9 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 9 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 15 5
+DEBUG:root:Order:16 15 3
+DEBUG:root:Order:9 15 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 15 6
+DEBUG:root:Order:16 15 4
+DEBUG:root:Order:9 15 3
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 9 7
+DEBUG:root:Order:15 9 5
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 9 6
+DEBUG:root:Order:15 9 4
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:15 2 4
+DEBUG:root:Order:9 2 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:15 2 4
+DEBUG:root:Order:9 2 3
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:0 5.0 9
+DEBUG:root:Order:2 15 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 15 5
+DEBUG:root:Order:9 15 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 0 7
+DEBUG:root:Order:15 0 3
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 10 5
+DEBUG:root:Order:15 10 3
+DEBUG:root:Order:0 10 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 10 5
+DEBUG:root:Order:15 10 3
+DEBUG:root:Order:0 10 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 10 5
+DEBUG:root:Order:15 10 3
+DEBUG:root:Order:0 10 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 10 5
+DEBUG:root:Order:15 10 3
+DEBUG:root:Order:0 10 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 10 5
+DEBUG:root:Order:15 10 3
+DEBUG:root:Order:0 10 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 9 5
+DEBUG:root:Order:15 9 3
+DEBUG:root:Order:0 9 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 9 5
+DEBUG:root:Order:15 9 3
+DEBUG:root:Order:10 9 2
+DEBUG:root:Order:0 9 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 9 5
+DEBUG:root:Order:15 9 3
+DEBUG:root:Order:10 9 2
+DEBUG:root:Order:0 9 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 9 5
+DEBUG:root:Order:15 9 3
+DEBUG:root:Order:10 9 2
+DEBUG:root:Order:0 9 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 0 4
+DEBUG:root:Order:15 0 2
+DEBUG:root:Order:9 0 1
+DEBUG:root:Order:10 0 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 9 1
+DEBUG:root:Order:2 15 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 15 5
+DEBUG:root:Order:9 15 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 15 6
+DEBUG:root:Order:9 15 3
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 9 5
+DEBUG:root:Order:15 9 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 15 6
+DEBUG:root:Order:9 15 1
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 15 8
+DEBUG:root:Order:9 15 5
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 15 5
+DEBUG:root:Order:9 15 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 9 6
+DEBUG:root:Order:15 9 2
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:2 9 7
+DEBUG:root:Order:15 9 5
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:15 5 46.0
+DEBUG:root:Order:9 15 18
+DEBUG:root:Order:2 15 9
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:9 2 5
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:9 2 5
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:9 2 5
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:9 2 5
+DEBUG:root:Finish turn
+
+DEBUG:root:Order:9 2 6
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:5 1.0 58
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:5 6.0 53
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:5 11.0 47
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:5 16.0 37
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:5 21.0 30
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:5 12.0 23
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:5 17.0 33
+DEBUG:root:Finish turn
+
+DEBUG:root:Bad order:5 5.0 42
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+
+DEBUG:root:Finish turn
+

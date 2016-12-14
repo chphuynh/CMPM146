@@ -1,0 +1,32 @@
+sound volume: 0.7
+music volume: 0.2
+screen resolution: 960x720
+fullscreen: False
+control by mouse: False
+CONTROL MAPPING
+1 up: 119
+1 right: 100
+1 down: 115
+1 left: 97
+1 bomb: 99
+1 special: 118
+2 up: 273
+2 right: 275
+2 down: 274
+2 left: 276
+2 bomb: 13
+2 special: 303
+3 up: 117
+3 right: 107
+3 down: 106
+3 left: 104
+3 bomb: 111
+3 special: 112
+4 up: -1
+4 right: -2
+4 down: -3
+4 left: -4
+4 bomb: -5
+4 special: -7
+menu: 27
+CONTROL MAPPING
